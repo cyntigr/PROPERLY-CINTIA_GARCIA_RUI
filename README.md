@@ -15,7 +15,7 @@ Para mi esta experiencia en la empresa ha sido bastante buena. He tenido buen tr
 
 ## Mi experiencia personal-Denise:
 Mi experiencia en Properly ha sido muy positiva.  Llegué allí convencida de que recibiría clases pero estaba equivocada. 
-Desde el primer día tuve que enfrentarme tareas que hacer sin saber cómo realizarlas
+Desde el primer día tuve que enfrentarme tareas que hacer sin saber cómo realizarlas.
 Tuve que documentarme, tuve que aprender a utilizar nuevo software por mi cuenta.
 Gracias a otros alumnos en prácticas, mi experiencia fue mucho mejor y si tenía dudas podía contar con ellos para que me ayudaran.
 
