@@ -5,7 +5,7 @@
 Es una empresa con un largo recorrido en el desarrollo de aplicaciones informáticas, siendo especialistas en un sector específico como es  el sector de la construcción e instalación de fontanería, gas, electricidad, aislamientos, calefacción...
 Su exito se debe a que supieron ver las necesidades de esos clientes, para crear un software que les fuera útil en su trabajo. Son una empresa cercana y pequeñita pero que tiene un gran potencial,ya que llevan muchos años trabajando duro.
 
-<img src="IMG/properly.png" width="520px">
+<img src="IMG/properly.png" width="200px">
 
 ## Mi experiencia personal:
 
