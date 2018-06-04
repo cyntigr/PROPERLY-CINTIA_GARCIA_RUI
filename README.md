@@ -19,4 +19,4 @@ Desde el primer día tuve que enfrentarme tareas que hacer sin saber cómo reali
 Tuve que documentarme, tuve que aprender a utilizar nuevo software por mi cuenta.
 Gracias a otros alumnos en prácticas, mi experiencia fue mucho mejor y si tenía dudas podía contar con ellos para que me ayudaran.
 
-<img src="IMG/IMG_20180314_103710.jpeg" width="400px">
+<img src="IMG/IMG_20180314_103710.jpg" width="400px">
